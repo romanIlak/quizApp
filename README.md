@@ -1,10 +1,15 @@
+# Question Window
+
+![screenshot](https://github.com/romanIlak/quizApp/blob/master/quizApp.png)
+
+# Result Window
+
+![screenshot2](https://github.com/romanIlak/quizApp/blob/master/quizApp2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![screenshot](https://github.com/romanIlak/quizApp/blob/master/quizApp.png)
-
-![screenshot2](https://github.com/romanIlak/quizApp/blob/master/quizApp2.png)
 
 ## Available Scripts
 
