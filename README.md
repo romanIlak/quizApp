@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![screenshot](https://github.com/romanIlak/quizApp/blob/master/quizApp.png)
 
+![screenshot2](https://github.com/romanIlak/quizApp/blob/master/quizApp2.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
