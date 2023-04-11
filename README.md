@@ -1,8 +1,10 @@
-# Question Window
+Простое quiz приложение с выбором варианта ответа. Показывает количество праввильно выбранных вариантов.
+
+#Окно вопросов
 
 ![screenshot](https://github.com/romanIlak/quizApp/blob/master/quizApp.png)
 
-# Result Window
+# Окно результата 
 
 ![screenshot2](https://github.com/romanIlak/quizApp/blob/master/quizApp2.png)
 
